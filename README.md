@@ -26,8 +26,8 @@ projeto/
 ### 1. Clone o projeto
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
-cd NOME_DO_PROJETO
+git clone https://github.com/juanzink7l/baixar_video_nem
+cd baixar_video_nem
 ```
 
 ### 2. Crie um ambiente virtual
