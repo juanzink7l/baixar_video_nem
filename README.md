@@ -76,7 +76,3 @@ http://127.0.0.1:5000
 O projeto utiliza o **yt-dlp** para processar as URLs fornecidas.
 
 Utilize a aplicação somente para conteúdos que você tenha permissão para baixar e de acordo com os termos de uso da plataforma de origem.
-
-## 📄 Licença
-
-Este projeto foi desenvolvido para fins de **estudo e aprendizado em desenvolvimento web com Python e Flask**.
